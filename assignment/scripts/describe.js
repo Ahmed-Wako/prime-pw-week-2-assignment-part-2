@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and set it to 'Dane' as a string.
+// we check if the name is equal to 'Mary' and if it is, we would log 'Hi Mary' or else we will log 'how do you do?'
+// since the correct name is 'Dane', the log would show 'how do you do?'
 //
 
 //CODE
