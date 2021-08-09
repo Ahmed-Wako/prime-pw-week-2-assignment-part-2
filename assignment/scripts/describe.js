@@ -45,9 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called 'secret'
+// We also make another variable called 'code' and set its value to 123 as a number 
+// we would then check if the variable 'code' equals to 123, if it is, we would set secret to 'super' as a string and 'code' would be set to code times two as a number.
+// We would check if the variable 'code' is greater than the number 250, if it is, we would then set 'secret to 'duper' as a string.
+// We would now console log 'secret' and we would get a result of 'super' becuase the 2nd condition wasn't met becasue 246 is less then 250 and not greater.
 //
 
 //CODE
