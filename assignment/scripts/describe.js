@@ -136,6 +136,12 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+
+/* 
+// colorOne should be set to a string value of 'blue'.
+// colorTwo should be set to a string value of 'red'.
+//
+
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -154,6 +160,8 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+// conditional statement should read (temp > 39 && time >= 4)
+
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -166,6 +174,13 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
+
+// We would write this as, if (age < minAge) {
+//  console.log('no entry')
+//  }
+//   else { console.log('enter')};
+
+
 
 if(minAge <= age) {
   console.log('no entry');
